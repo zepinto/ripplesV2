@@ -16,5 +16,4 @@ public class ShipDynamics {
     ShipInfo ship;
 
     double latitude, longitude, course, speed, heading;
-
 }
